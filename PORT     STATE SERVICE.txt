@@ -1,0 +1,6 @@
+PORT     STATE SERVICE
+23/tcp   open  telnet
+53/tcp   open  domain
+80/tcp   open  http
+5555/tcp open  freeciv
+MAC Address: BC:62:D2:7E:37:D8 (Genexis International)
